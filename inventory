@@ -1,0 +1,2 @@
+[asa_servers]
+ec2-3-16-82-30.us-east-2.compute.amazonaws.com  ansible_user=ubuntu
